@@ -43,17 +43,17 @@ class AboutDialog(QDialog):
         <h1>pyqt-openai</h1>
         Software Version {get_version()}<br/><br/>
         © 2023 {datetime.datetime.now().year}. Used under the MIT License.<br/>
-        Copyright (c) {datetime.datetime.now().year} yjg30737<br/>
+        Copyright (c) {datetime.datetime.now().year} codetechmaster999<br/>
         ''')
 
         descWidget2 = ClickableLabel()
         descWidget2.setText('Read MIT License Full Text')
-        descWidget2.setUrl('https://github.com/yjg30737/pyqt-openai/blob/main/LICENSE')
+        descWidget2.setUrl('https://github.com/codetechmaster999/pyqt-openai/blob/main/LICENSE')
         descWidget2.setStyleSheet('QLabel:hover { color: blue }')
 
         descWidget3 = QLabel()
         descWidget3.setText(f'''
-        <br/><br/>Contact: yjg30737@gmail.com<br/>
+        <br/><br/>Contact: sakamotoseiji1125@gmail.com<br/>
         <p>{LangClass.TRANSLATIONS['Powered by qtpy']}</p>
         ''')
 
@@ -63,7 +63,7 @@ class AboutDialog(QDialog):
 
         self.__githubLbl = ClickableLabel()
         self.__githubLbl.setSvgFile('ico/github.svg')
-        self.__githubLbl.setUrl('https://github.com/yjg30737/pyqt-openai')
+        self.__githubLbl.setUrl('https://github.com/codetechmaster999/pyqt-openai')
 
         self.__discordLbl = ClickableLabel()
         self.__discordLbl.setSvgFile('ico/discord.svg')

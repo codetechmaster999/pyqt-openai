@@ -11,7 +11,7 @@ setup(
     name='pyqt-openai',
     version='0.7.6',
     author='Jung Gyu Yoon',
-    author_email='yjg30737@gmail.com',
+    author_email='codetechmaster999@gmail.com',
     license='MIT',
     packages=find_packages(),
     package_data={'pyqt_openai.ico': ['close.svg', 'case.svg', 'copy.svg', 'copy_light.svg', 'openai.svg', 'discord.svg', 'github.svg', 'help.svg', 'customize.svg', 'history.svg',
@@ -25,7 +25,7 @@ setup(
                                       'favorite_no.svg',
                                       'fullscreen.svg']},
     description='PyQt/PySide(Python cross-platform GUI toolkit) OpenAI Chatbot',
-    url='https://github.com/yjg30737/pyqt-openai.git',
+    url='https://github.com/codetechmaster999/pyqt-openai.git',
     long_description_content_type='text/markdown',
     long_description=long_description,
     install_requires=[

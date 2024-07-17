@@ -60,4 +60,4 @@ awesome-chatgpt-prompts와 같은 프롬프트 목록이 있기 때문에 프롬
 6. python main.py
 
 ## 프리뷰
-![image](https://github.com/yjg30737/pyqt-openai/assets/55078043/c3f255c7-4c79-4ffe-aefa-1e0e55492362)
+![image](https://github.com/codetechmaster999/pyqt-openai/assets/55078043/c3f255c7-4c79-4ffe-aefa-1e0e55492362)

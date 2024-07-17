@@ -4,7 +4,7 @@
   
   [![](https://dcbadge.vercel.app/api/server/cHekprskVE)](https://discord.gg/cHekprskVE)
   
-  [![](https://img.shields.io/badge/한국어-readme-green)](https://github.com/yjg30737/pyqt-openai/blob/main/README.kr.md)
+  [![](https://img.shields.io/badge/한국어-readme-green)](https://github.com/codetechmaster999/pyqt-openai/blob/main/README.kr.md)
 
 </div>
 
@@ -28,9 +28,9 @@ If you have any questions or you want to make AI related software with PyQt or P
 
 And if you would like to support this project, you can click the button below to make a donation. Your contribution will greatly assist various projects, including this one!
 
-<a href="https://www.buymeacoffee.com/yjg30737" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-<a href="https://paypal.me/yjg30737">
-  <img src="https://github.com/yjg30737/yjg30737/assets/55078043/3366b496-3e1e-491c-841e-19871da55c40" alt="Donate with PayPal" style="height: 60px; width: 170px" />
+<a href="https://www.buymeacoffee.com/codetechmaster999" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://paypal.me/codetechmaster999">
+  <img src="https://github.com/codetechmaster999/codetechmaster999/assets/55078043/3366b496-3e1e-491c-841e-19871da55c40" alt="Donate with PayPal" style="height: 60px; width: 170px" />
 </a>
 
 ## Table of Contents
@@ -118,15 +118,15 @@ You can install these requirements with only one line command "pip install -r re
 #### Note: A lot of previews below are not from latest version. It is slightly different with current GUI. So if you want to really know what this looks like, see it by yourself :) But i will definitely change any image(s) which should be changed.
 
 ### Overview
-![image](https://github.com/yjg30737/pyqt-openai/assets/55078043/00aab779-37bd-45e8-b21c-9f4ed3e473e8)
+![image](https://github.com/codetechmaster999/pyqt-openai/assets/55078043/00aab779-37bd-45e8-b21c-9f4ed3e473e8)
 <b>You have to write your openai api key inside the red box.</b> see [How to install](#how-to-install)
 
 You can change screen between text chatbot and image generating tool screen.
 
-![image](https://github.com/yjg30737/pyqt-openai/assets/55078043/78260aaf-2626-4267-9309-07655cab2061)
+![image](https://github.com/codetechmaster999/pyqt-openai/assets/55078043/78260aaf-2626-4267-9309-07655cab2061)
 
 ### Using LlamaIndex
-![image](https://github.com/yjg30737/pyqt-openai/assets/55078043/e161b551-91dc-4c4d-8a33-28179d72fb64)
+![image](https://github.com/codetechmaster999/pyqt-openai/assets/55078043/e161b551-91dc-4c4d-8a33-28179d72fb64)
 
 If you want to use this with your personal chatbot based on data you've given, then you can check the llamaindex checkbox and go to the tab, select the directory which includes .txt files containing the data.
 
@@ -137,10 +137,10 @@ I recorded this preview long time ago so GUI is different from the current versi
 https://user-images.githubusercontent.com/55078043/236583883-8e9732a3-1223-4b28-85f1-f60d8b2d6ced.mp4
 #### Preview 2 (using prompt feature)
 
-https://github.com/yjg30737/pyqt-openai/assets/55078043/841a1505-f1cc-452e-99ab-0a9c661e6ead
+https://github.com/codetechmaster999/pyqt-openai/assets/55078043/841a1505-f1cc-452e-99ab-0a9c661e6ead
 
 #### Conversation Save Feature
-![image](https://github.com/yjg30737/pyqt-openai/assets/55078043/908ed185-06a6-4f7a-9626-92141ba24e1a)
+![image](https://github.com/codetechmaster999/pyqt-openai/assets/55078043/908ed185-06a6-4f7a-9626-92141ba24e1a)
 
 You can save checked conversation units to SQlite db file or compressed file (zip) which contains each conversation as text/html file.
 
@@ -154,20 +154,20 @@ For properties, there is a group named "Default" that provides a set of attribut
 
 For templates, there are the "awesome_chatGPT_prompt" and "alex_brogan" (example prompt for Alex Brogan) groups provided. Any custom template items created prior to version 0.1.6 will be moved to the Miscellaneous group.
 
-![prompt_list_image](https://github.com/yjg30737/pyqt-openai/assets/55078043/ce40139a-c03f-42ef-abd8-4a610d762394)
+![prompt_list_image](https://github.com/codetechmaster999/pyqt-openai/assets/55078043/ce40139a-c03f-42ef-abd8-4a610d762394)
 
 With using these prompts you can pretty much get any response you want.
 
 You can use the additional prompt feature by "prompt menu" right next to "prompt input" field.
 
-![image](https://github.com/yjg30737/pyqt-openai/assets/55078043/c9ca84af-0088-4435-854d-7feca9e2e663)
+![image](https://github.com/codetechmaster999/pyqt-openai/assets/55078043/c9ca84af-0088-4435-854d-7feca9e2e663)
 
 Since v0.1.6, awesome-chatgpt-prompt is included as template group by default.
 
 #### Prompt Generator Preview
 Generating the prompt (Properties)
 
-https://github.com/yjg30737/pyqt-openai/assets/55078043/e168c0e6-41b4-4ad5-95e6-3c42c9c23602
+https://github.com/codetechmaster999/pyqt-openai/assets/55078043/e168c0e6-41b4-4ad5-95e6-3c42c9c23602
 
 I recorded using the Windows recording feature. As a result, the "Add Dialog" that prompts for entering a group name does not appear in the preview. When you add a group, you will see the Add Dialog as expected.
 
@@ -179,7 +179,7 @@ If you add a property group or template group with items, you can use it as a co
 
 <b>Use prompt as a command</b>
 
-https://github.com/yjg30737/pyqt-openai/assets/55078043/df0d3923-1fbe-4dda-af6f-4e4d1e572553
+https://github.com/codetechmaster999/pyqt-openai/assets/55078043/df0d3923-1fbe-4dda-af6f-4e4d1e572553
 
 In this preview, i pressed the keyboard shortcut of each actions(show beginning, show ending, support prompt command) to use it rather than clicking them with mouse.
 
@@ -189,20 +189,20 @@ I made the command suggestion GUI resemble the Discord command autocomplete popu
 #### How to Use it
 1. Select "gpt-4-vision-preview"
 
-![image](https://github.com/yjg30737/pyqt-openai/assets/55078043/1d1ce632-3078-4cb7-863e-fc447b146f8a)
+![image](https://github.com/codetechmaster999/pyqt-openai/assets/55078043/1d1ce632-3078-4cb7-863e-fc447b146f8a)
 
 2. Select image files from local with clicking "Upload Files"
 
-![image](https://github.com/yjg30737/pyqt-openai/assets/55078043/aef216d5-9b7c-4f22-9bc3-88c90f4d9e73)
+![image](https://github.com/codetechmaster999/pyqt-openai/assets/55078043/aef216d5-9b7c-4f22-9bc3-88c90f4d9e73)
 
 3. Ask something about images
 
-![image](https://github.com/yjg30737/pyqt-openai/assets/55078043/3ef4f091-9f5f-46b3-a160-be35215977c7)
+![image](https://github.com/codetechmaster999/pyqt-openai/assets/55078043/3ef4f091-9f5f-46b3-a160-be35215977c7)
 
 
 ### Image Generation
 
-![image](https://github.com/yjg30737/pyqt-openai/assets/55078043/7f240ab3-f4d7-4d8b-b1c8-cb269f25e05b)
+![image](https://github.com/codetechmaster999/pyqt-openai/assets/55078043/7f240ab3-f4d7-4d8b-b1c8-cb269f25e05b)
 
 ## How to Install
 1. git clone ~
